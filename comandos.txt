@@ -2,5 +2,7 @@
 - git checkout -b "001_configuracion_inicial"
 - git status
 - git add .
+- git commit -m "Configuración inicial"
+- git push -u origin 001_configuracion_inicial
 
 

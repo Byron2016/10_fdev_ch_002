@@ -9,6 +9,9 @@
   - [Archivos a ser copiados](#Archivos-a-ser-copiados)
   - [Directorios y Archivos a ser creados](#Directorios-y-Archivos-a-ser-creados)
 
+- [Video 01](#video_01)
+  - [Archivos a ser copiados](#Archivos-a-ser-copiados)
+  - [Directorios y Archivos a ser creados](#Directorios-y-Archivos-a-ser-creados)
 
 ## Overview
 
@@ -32,3 +35,12 @@
       - app/scss/styles.scss
       - app/scss/_globals.scss
       - app/scss/_variables.scss
+
+## Video_01
+- Incluye la configuración inicial
+- Crear variables globales
+  - html, *:before y after, body
+  - Cargar letras de acuerdo a lo que indica stylos.
+  - Linkear html a css, js, y letras.
+- Crear marcado inicial del html
+- 
