@@ -1,0 +1,28 @@
+/* _header.scss */
+
+.header{
+
+  nav {
+    padding: 24px;
+  }
+  
+  &__logo{
+    //logo
+
+  }
+  &__toggle{
+    //menu hamburguesa
+    > span {
+      display: block;
+      width: 26px;
+      height: 2px;
+      background-color: $darkBlue;
+      // transition: all 300ms ease-in-out;
+      // transform-origin: 3px 1px;
+
+      &:not(:last-child){
+        margin-bottom: 5px;
+      }
+    }
+  }
+}
