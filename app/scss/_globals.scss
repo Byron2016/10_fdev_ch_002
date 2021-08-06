@@ -50,3 +50,16 @@ button, .button {
   font-weight: 400;  
   font-size: $font-sm; 
 }
+
+// Visibility
+.hide-for-mobile {
+  @include breakpoint-down(medium){
+    display: none;
+  }
+}
+
+.hide-for-desktop {
+  @include breakpoint-up(large){
+    display: none;
+  }
+}
