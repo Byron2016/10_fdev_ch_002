@@ -6,5 +6,6 @@
 - git push -u origin 001_configuracion_inicial
 - git log --oneline --decorate --all --graph
 - git checkout -b "002_video_dos"
+- git push -u origin 002_video_dos
 
 
