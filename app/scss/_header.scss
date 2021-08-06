@@ -5,11 +5,12 @@
   nav {
     padding: 24px;
   }
-  
+
   &__logo{
     //logo
 
   }
+
   &__toggle{
     //menu hamburguesa
     > span {
@@ -23,6 +24,12 @@
       &:not(:last-child){
         margin-bottom: 5px;
       }
+    }
+  }
+
+  &__links {
+    a {
+      font-size: $font-sm;
     }
   }
 }
