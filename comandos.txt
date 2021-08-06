@@ -1,0 +1,6 @@
+/* comandos usados */
+- git checkout -b "001_configuracion_inicial"
+- git status
+- git add .
+
+
